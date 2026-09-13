@@ -1,4 +1,4 @@
-# cloudflare-warp
+# cloudflare-warp (Linux)
 
 System tray control for Cloudflare WARP on Linux. Works on any desktop with
 a tray/panel — GNOME (Ubuntu ships this out of the box), KDE Plasma, XFCE,
