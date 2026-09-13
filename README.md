@@ -37,20 +37,6 @@ Either click "Uninstall WARP + This Tray App" in the tray menu, or run:
 bash ~/.local/share/cloudflare-warp/uninstall.sh
 ```
 
----
 
-## Uploading this to GitHub (dashboard, no terminal)
-
-1. Repo already exists at `ys-rathore/cloudflare-warp`.
-2. On the repo page, click **Add file → Upload files**.
-3. Drag in these files/folders exactly as they are:
-   - `install.sh`
-   - `uninstall.sh`
-   - `cloudflare_warp.py`
-   - `scripts/install-warp-cli.sh` (GitHub keeps the `scripts` folder
-     automatically if you drag the folder itself, or drag the file and
-     type `scripts/install-warp-cli.sh` as its path in the upload box)
-   - `README.md`
-   - `LICENSE`
 4. Scroll down, click **Commit changes**.
 5. Done — anyone can now run the `git clone` command above as-is.
