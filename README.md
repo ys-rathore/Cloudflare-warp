@@ -1,3 +1,4 @@
+<img width="703" height="696" alt="Screenshot From 2026-09-13 22-37-25" src="https://github.com/user-attachments/assets/4c9e8e2a-3787-49cf-aa73-077514163763" />
 **Cloudflare DNS WARP (GNOME Extension)**
 
 
