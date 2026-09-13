@@ -8,8 +8,8 @@ status icon, connect/disconnect, mode switch, and one-click install/uninstall.
 ## Setup (one time)
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/warp-tray.git
-cd warp-tray
+git clone https://github.com/ys-rathore/Cloudflare-WARP.git
+cd Cloudflare-WARP
 bash install.sh
 ```
 
@@ -41,9 +41,8 @@ bash ~/.local/share/warp-tray/uninstall.sh
 
 ## Uploading this to GitHub (dashboard, no terminal)
 
-1. On GitHub, click **New repository**, name it e.g. `warp-tray`, keep it
-   Public, don't add a README (you already have one) → **Create repository**.
-2. On the empty repo page, click **uploading an existing file**.
+1. Repo already exists at `ys-rathore/Cloudflare-WARP`.
+2. On the repo page, click **Add file → Upload files**.
 3. Drag in these files/folders exactly as they are:
    - `install.sh`
    - `uninstall.sh`
@@ -54,8 +53,4 @@ bash ~/.local/share/warp-tray/uninstall.sh
    - `README.md`
    - `LICENSE`
 4. Scroll down, click **Commit changes**.
-5. Done — anyone can now run the `git clone ... && bash install.sh` command
-   above using your repo's URL.
-
-One thing to fix after upload: edit `README.md` on GitHub (pencil icon) and
-replace `YOUR_USERNAME` with your actual GitHub username in the clone URL.
+5. Done — anyone can now run the `git clone` command above as-is.
